@@ -7,6 +7,6 @@ print("Hello", name)
 print("You are", age, "years old")
 
 if age >= 18:
-    print("You are an adult.")
+    print("Since you are above 18 ,You are an adult.")
 else:
-    print("You are a minor.")
+    print("Since you are below 18 ,You are a minor.")
