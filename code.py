@@ -3,10 +3,10 @@
 name = input("Please Enter your name: ")
 age = int(input("Enter your age: "))
 
-print("Hello", name)
+print("Hello Hi", name)
 print("You are", age, "years old")
 
-if age >= 10:
-    print("You are an adult.")
+if age >= 19:
+    print("Since you are above 18 ,You are an adult.")
 else:
-    print("You are a minor.")
+    print("Since you are below 18 ,You are a minor.")
