@@ -1,6 +1,6 @@
 # Simple Python program
 
-name = input("Enter your name: ")
+name = input("Please Enter your name: ")
 age = int(input("Enter your age: "))
 
 print("Hello Hi", name)
